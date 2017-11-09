@@ -50,7 +50,10 @@
     
     echo 'je suis '. $_POST['nom'] ; 
     
-?>   
+?>  
+    
+    
+    <?php "nou sommes le " . date('d-m-Y'); ?>
     
 
 
